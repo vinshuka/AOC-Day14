@@ -20,7 +20,6 @@
 //floating meaning they can be both 1 and 0, we will need to find all permutations of 'X' bits and store the value at all of those addresses. Then we need to sum all the
 //values left in memory to find the answer
 
-//Because the 'X's don't matter, we really only need to find values that have the 
 
 std::vector<std::string> getPuzzleInput()
 {
